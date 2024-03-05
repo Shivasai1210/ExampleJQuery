@@ -23,5 +23,3 @@ $(document).ready(function () {
     $('p.odd').click();
     $('h3:first').click();
 })
-
-//Hello
